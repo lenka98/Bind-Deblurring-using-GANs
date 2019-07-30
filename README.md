@@ -1,5 +1,7 @@
 # Bind-Deblurring-using-GANs
 Blind Deblurring using improvements on different GAN models
+For a more detailed discription, click the report link below:
+https://arxiv.org/pdf/1907.11880.pdf
 
 ## References
 - pix2pix-tensorflow (https://github.com/affinelayer/pix2pix-tensorflow)
