@@ -2,6 +2,7 @@
 Blind Deblurring using improvements on different GAN models
 For a more detailed discription, click the report link below:
 https://arxiv.org/pdf/1907.11880.pdf
+
 http://reports.ias.ac.in/report/20694/blind-deblurring-using-gans
 
 ## References
